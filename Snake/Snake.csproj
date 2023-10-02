@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\background.jpg" />
+    <None Remove="Assets\bgtry.jpg" />
+    <None Remove="Assets\Body.png" />
+    <None Remove="Assets\Body1.png" />
+    <None Remove="Assets\brown.jpg" />
+    <None Remove="Assets\DeadBody.png" />
+    <None Remove="Assets\DeadHead.png" />
+    <None Remove="Assets\dirt.jpg" />
+    <None Remove="Assets\dirt2.jpg" />
+    <None Remove="Assets\DroidSansMono.ttf" />
+    <None Remove="Assets\Empty.png" />
+    <None Remove="Assets\EmptySlot.png" />
+    <None Remove="Assets\EmptySlot1.png" />
+    <None Remove="Assets\EmptySlotGrid.png" />
+    <None Remove="Assets\Font\DroidSansMono.ttf" />
+    <None Remove="Assets\Food.png" />
+    <None Remove="Assets\FoodGrid.png" />
+    <None Remove="Assets\grass.jpg" />
+    <None Remove="Assets\grassbg.jpg" />
+    <None Remove="Assets\green.png" />
+    <None Remove="Assets\GridBackground.jpg" />
+    <None Remove="Assets\Head.png" />
+    <None Remove="Assets\icon.ico" />
+    <None Remove="Assets\Icon1.ico" />
+    <None Remove="Assets\Icon2.ico" />
+    <None Remove="Assets\Icon3.ico" />
+    <None Remove="Assets\Icons\Icon1.ico" />
+    <None Remove="Assets\Icons\Icon2.ico" />
+    <None Remove="Assets\Icons\Icon3.ico" />
+    <None Remove="Assets\Icons\SanakeIcon.ico" />
+    <None Remove="Assets\Icons\SnakeIcon2.ico" />
+    <None Remove="Assets\notTransparentHead.png" />
+    <None Remove="Assets\Snake%27s head.png" />
+    <None Remove="Assets\SnakeHead.png" />
+    <None Remove="Assets\SnakeIcon.ico" />
+    <None Remove="Assets\SnakeIcon4.ico" />
+    <None Remove="Assets\Try.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\background.jpg" />
+    <Resource Include="Assets\Body.png" />
+    <Resource Include="Assets\DeadBody.png" />
+    <Resource Include="Assets\DeadHead.png" />
+    <Resource Include="Assets\EmptySlotGrid.png" />
+    <Resource Include="Assets\Font\DroidSansMono.ttf" />
+    <Resource Include="Assets\FoodGrid.png" />
+    <Resource Include="Assets\GridBackground.jpg" />
+    <Resource Include="Assets\Head.png" />
+    <Resource Include="Assets\Icons\Icon1.ico" />
+    <Resource Include="Assets\Icons\Icon2.ico" />
+    <Resource Include="Assets\Icons\Icon3.ico" />
+    <Resource Include="Assets\Icons\SanakeIcon.ico" />
+    <Resource Include="Assets\notTransparentHead.png" />
+  </ItemGroup>
+
+</Project>
