@@ -32,7 +32,7 @@ Follow these steps to get started with Snake Classic:
 
 ## Screenshots
 
-![Snake Classic Screenshot](Screenshot 2023-10-03 113331.png)
+![Snake Classic Screenshot](https://github.com/tatyanapencheva/Snake/blob/main/Screenshot%202023-10-03%20113331.png?raw=true)
 
 ## Contributing
 
