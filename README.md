@@ -32,7 +32,7 @@ Follow these steps to get started with Snake Classic:
 
 ## Screenshots
 
-![Snake Classic Screenshot](screenshots/screenshot.png)
+Screenshot 2023-10-03 113331.png
 
 ## Contributing
 
